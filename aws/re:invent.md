@@ -17,4 +17,4 @@
 
 - EC2 Image Builderがコンテナをサポート
 
-- AWS Personal Health Dashboard で組織規模のイベント収集が可能に
+- AWS Personal Health Dashboardで組織規模のイベント収集が可能に
