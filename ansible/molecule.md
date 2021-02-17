@@ -27,3 +27,4 @@ verifier:
 tags:
     - molecule-idempotence-notest
 ```
+Molecule will skip tasks which are tagged with either molecule-notest or notest. With the tag molecule-idempotence-notest tasks are only skipped during the idempotence action step.
