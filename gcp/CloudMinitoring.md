@@ -7,3 +7,6 @@
 
 ## cloudmonitoringとzabbixの連携
 https://github.com/ingrammicro/gcpmetrics/wiki/Google-Cloud-Platform-monitoring-with-Zabbix
+
+IAMの権限
+https://cloud.google.com/monitoring/access-control
