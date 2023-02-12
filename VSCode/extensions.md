@@ -9,3 +9,5 @@
 ## AWS
 - CloudFormation Linter
 
+## VSCode
+- Material Icon Theme
